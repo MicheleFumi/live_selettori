@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+h1{
+    background-color: aquamarine;
+}
+
+h1.title{
+
+    color: red;
+}
+
+input[type="button"]{
+    border: none;
+}
+
+div p{
+    background-color: red;
+}
+
