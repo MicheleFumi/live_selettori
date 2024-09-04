@@ -29,3 +29,14 @@ div>p{
 div>strong{
     color: blue;
 }
+
+a:hover, a:visited{
+    color: burlywood;
+}
+a:active{
+    color: yellowgreen;
+}
+
+a:focus{
+    color: chocolate;
+}
